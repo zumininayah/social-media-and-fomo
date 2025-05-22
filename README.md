@@ -1,1 +1,6 @@
-# social-media-and-fomo
+# The Tendency of Using Social Media to the Emergence of Feelings of Fear of Missing Out (FOMO) of Active Students of the Undergraduate Study Program of the Department of Mathematics FMIPA UGM
+As part of the Sample Survey Method course, I participated in a group project that investigated the relationship between social media usage and the emergence of Fear of Missing Out (FoMO) among undergraduate students in the Department of Mathematics, Universitas Gadjah Mada. The project aimed to explore how patterns of social media activity might influence students’ psychological tendencies, particularly the feeling of being left out or disconnected from peers.
+
+We designed and distributed a structured questionnaire using simple random sampling and collected responses from students across various programs and academic years. The data were analyzed using statistical techniques such as validity and reliability testing, categorization scoring, and Spearman rank correlation to examine the strength of the relationship between media usage and FoMO.
+
+The project provided valuable experience in end-to-end survey research—from instrument development and sampling to data analysis and interpretation. It also offered insights into behavioral data analysis and how statistical methods can be applied to understand real-world social and psychological phenomena.
